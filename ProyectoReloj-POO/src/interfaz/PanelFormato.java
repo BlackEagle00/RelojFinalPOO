@@ -28,9 +28,9 @@ public class PanelFormato extends JPanel
 		
 		btn12 = new JRadioButton(" 12 Horas ", true);
 		add(btn12);
-	    btn24 = new JRadioButton(" 24 Horas ", false);
-	    btn_format = new ButtonGroup();
-	    add(btn24);
+	    	btn24 = new JRadioButton(" 24 Horas ", false);
+	    	btn_format = new ButtonGroup();
+	    	add(btn24);
 
 		
 		this.ctrl = ctrl;
